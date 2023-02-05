@@ -9,3 +9,7 @@ Repository to understand and apply mcachine-learning
     Bias-Variance Tradeof
     Regularized Linear Models (Regularization)
     Early Stopping
+
+## 3-logistic-softmax-regression
+    Logistic Regression
+    
