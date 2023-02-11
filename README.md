@@ -15,3 +15,5 @@ Repository to understand and apply mcachine-learning
     
 ## 5-knn
     1-knn-basics - Minkowski distance and knn algorithm implementation
+    2-knn classifier exercise (variation in k, p, weights)
+    3-knn regression exercise (variation in k and weights)
