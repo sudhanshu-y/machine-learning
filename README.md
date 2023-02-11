@@ -13,3 +13,5 @@ Repository to understand and apply mcachine-learning
 ## 3-logistic-softmax-regression
     Logistic Regression
     
+## 5-knn
+    1-knn-basics - Minkowski distance and knn algorithm implementation
