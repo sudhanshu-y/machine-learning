@@ -22,3 +22,5 @@ Repository to understand and apply mcachine-learning
     1-naive-bayes implementation 
     2-multinomial naive bayes classifier with sklearn
     3-gaussian naive bayes classifier with sklearn
+
+## ML-Losses - MSE, MAE, Huber (Combination of MSE & MAE)
